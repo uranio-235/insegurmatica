@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>Un tipo ahí</manufacturer>
+    <productname>insergumatica</productname>
+    <productversion>1.0.0.0</productversion>
+    <productcode>{0ba84e13-3d8d-4c37-ac62-6c7ee59c8536}</productcode>
+    <upgradecode>{59a18cad-5971-4bc7-a0d7-9c530abcc19f}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>insergumatica</title>
+    <subject>insergumatica</subject>
+    <author>Un tipo ahí</author>
+    <summarycomments>insergumatica</summarycomments>
+    <revisioncode>{0b55c207-9947-4164-8e45-a1a923e536b1}</revisioncode>
+    <uacelevation>highestAvailable</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>Un tipo ahí</publishername>
+    <contactname>Un tipo ahí</contactname>
+    <helplink>http://www.mistioweb.cu</helplink>
+    <productupdatelink>http://www.mistioweb.cu</productupdatelink>
+    <addremovecomments>todos los derechos regalados</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>0</generateincludefiles>
+    <generatefeatures>1</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>1</buildtype>
+    <buildasmsi>True</buildasmsi>
+    <cachesources>1</cachesources>
+  </build>
+  <targetfolders />
+  <files>
+    <filedetails filename="C:\Users\lazaro\source\repos\insergumatica\insegurmatica\bin\Debug\insegurmatica.exe" targetlocation="$TARGETDIR$" type="1" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="1" runprogram="0" installfilecommand="1" />
+  </files>
+  <dependencies />
+  <registry />
+  <dialogtheme>
+    <themename>Plain</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <mode>0</mode>
+    <certificatefile />
+    <keyfile />
+    <pfxfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+    <signall>0</signall>
+  </authenticode>
+  <compression>
+    <compressiontype>0</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location>C:\Users\lazaro\Downloads</location>
+    <filename>insegurmatica_setup</filename>
+    <calculatefilehash>1</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>
